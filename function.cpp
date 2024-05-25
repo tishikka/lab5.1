@@ -1,4 +1,4 @@
-#include <vector>
+#include "function.h"
 
 std::vector <int> vctr(int a) {
     std::vector<int> vec1;

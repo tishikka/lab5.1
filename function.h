@@ -1,6 +1,8 @@
 #ifndef FUNCTION
 #define FUNCTION
 
+#include <vector>
+
 /**
  * @brief преобразовываем число типа int в число в векторном представлении
  * 
